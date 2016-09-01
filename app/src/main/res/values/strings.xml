@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Music Player</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_first">MusicPlayer</string>
+    <string name="tab0_name">Now Playing</string>
+    <string name="select">播放列表空空如也，快去添加吧</string>
+    <string name="singleMode">已切换到单曲播放</string>
+    <string name="loopMode">已切换到顺序循环</string>
+    <string name="randomMode">已切换到随机播放</string>
+    <string name="tab1_name">PlayList</string>
+
+</resources>
